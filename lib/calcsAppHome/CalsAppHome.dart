@@ -66,6 +66,11 @@ response = textToDisplay.substring(0,textToDisplay.length-1);
     textToDisplay =response;
   });
   }
+
+
+
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
